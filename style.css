@@ -35,8 +35,11 @@
     padding: 24px 0;
 }
 
-.campo-div-conteudo{
+.campo {
     width: 5%;
+}
+.campo-div-conteudo {
+    width: 20%;
 }
 .campo-titulo{
     padding: 24px 0;
