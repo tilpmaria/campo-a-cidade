@@ -22,11 +22,11 @@
     font-size: 20px;
 }
 
-.escola-imagem{
-    width: 8%;
+.flor-imagem{
+    width: 4%;
 }
 
-.escola{
+.flor-imagem{
     background-image: linear-gradient(#df087b,#ae3e83);
     color:white;
     display: flex;
@@ -35,18 +35,18 @@
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
-    width: 10%;
+.campo-div-conteudo{
+    width: 5%;
 }
-.escola-titulo{
+.campo-titulo{
     padding: 24px 0;
 }
 
 
-.estudante{
+.flor-imagem{
     padding: 24px 0;
 }
-.estudante-imagem{
+.flor-imagem{
     width: 120px;
 }
 
