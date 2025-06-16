@@ -26,7 +26,7 @@
     width: 10%;
 }
 
-.flor-imagem{
+.campo{
     background-image: linear-gradient(#df087b,#ae3e83);
     color:rgb(34, 30, 30);
     display: flex;
@@ -35,9 +35,6 @@
     padding: 24px 0;
 }
 
-.campo {
-    width: 15%;
-}
 
 .campo-div-conteudo {
     width: 10%;
