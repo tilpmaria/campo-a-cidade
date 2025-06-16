@@ -28,7 +28,7 @@
 
 .flor-imagem{
     background-image: linear-gradient(#df087b,#ae3e83);
-    color:white;
+    color:rgb(34, 30, 30);
     display: flex;
     justify-content: center;
     align-items: center;
